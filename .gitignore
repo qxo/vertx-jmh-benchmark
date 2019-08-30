@@ -1,0 +1,16 @@
+target
+.classpath
+.externalToolBuilders/
+.project
+.settings/
+.springBeans
+*.bak
+*.log
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+.svn
+*.patch
+.factorypath
